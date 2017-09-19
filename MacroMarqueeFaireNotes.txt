@@ -1,0 +1,84 @@
+
+https://wp.josh.com/2016/05/20/huge-scrolling-arduino-led-sign/
+https://github.com/bigjosh/MacroMarquee/blob/master/Arduino/MacroMarquee/MacroMarquee.ino
+
+http://jared.geek.nz/2014/jan/custom-fonts-for-microcontrollers
+
+https://arduino.stackexchange.com/questions/16348/how-do-you-use-spi-on-an-arduino
+http://neophob.com/2012/04/long-distance-spi-installation-lessons-learned/
+
+
+0.5" tall strip
+0.5 x 7 = 3.5"
+
+The Betty Brinn Children's Museum and Milwaukee Makerspace Welcome You To Maker Faire Milwaukee
+
+Enter the Darkness: The Knight vs. Tesla * Music * Digital Technology * Games * High Voltage Devices * Lasers and Optics * Black Light Exhibits
+
+Maker Faires are happening in 41 countries around the globe and all over the United States!  Thanks to our sponsors, supporters and volunteers, Maker Faire Milwaukee is one of the biggest Faires in the world.
+
+2017 Silversmith Sponsor * Rockwell Automation
+
+2017 Nerdy Derby Sponsor * Kohl's
+
+2017 Field Trip Friday Sponsor * Harley-Davidson Motor Company
+
+Thanks to Harvest Fair for sharing their grounds with us!
+
+Join the Maker Movement!
+
+We are all Makers
+
+The Greatest Show (and Tell) on Earth!
+
+#MakerFaireMKE
+
+Build * Learn * Craft * Meet * Make!
+
+5pixels | gap | 57 | gap | 8pixels
+57x5 + 56 = 285 + 56 = 341
+5 + 1 + 341 + 1 + 8 = 356
+
+356 x 7 = 2,492
+
+// " 123456789012345678901234567890123456789012345678901234567 "
+// "         Silversmith Sponsor * Rockwell Automation         "
+// "               Nerdy Derby Sponsor * Kohl's                "
+// " Field Trip Friday Sponsor * Harley-Davidson Motor Company "
+// " Thanks to Harvest Fair for sharing their grounds with us! "
+// "  Join the Maker Movement! * Build * Learn * Craft * Meet  "
+
+
+
+0x70,0xf4,0xfe,0xda,0xd8,0xf4,0xf4,0xd8,0xda,0xfe,0xf4,0x70
+
+0111 0000
+1111 0100
+1111 1110
+1101 1010
+1101 1000
+1111 0100
+1111 0100
+1101 1000
+1101 1010
+1111 1110
+1111 0100
+0111 0000
+
+7 wide
+
+0111 0000
+0010 0000
+0010 0000
+0111 1110
+1111 1010
+0111 1110
+0000 0110
+
+0b01110000
+0b00100000
+0b00100000
+0b01111110
+0b11111010
+0b01111110
+0b00000110
